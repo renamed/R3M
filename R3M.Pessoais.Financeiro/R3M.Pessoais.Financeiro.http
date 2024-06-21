@@ -1,0 +1,6 @@
+@R3M.Pessoais.Financeiro_HostAddress = http://localhost:5126
+
+GET {{R3M.Pessoais.Financeiro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
